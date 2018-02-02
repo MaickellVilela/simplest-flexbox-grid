@@ -1,6 +1,6 @@
 {
   "name": "tiny-grid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A very simple flexbox grid ever!",
   "main": "_fg_grid.scss",
   "scripts": {
